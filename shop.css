@@ -1,0 +1,96 @@
+.title {
+  color: #02ccba;
+}
+body {
+  font-family: "Avenir Next";
+
+}
+.header {
+  background-color:  black;
+  color: white;
+  height: 90px;
+  position: fixed;
+  width:100%;
+  top:0px;
+  z-index: 10;
+}
+.home img{
+  height: 36px;
+  float :right;
+  padding-top:13px;
+  padding-right: 20px;
+
+}
+.header h1{
+  float:left;
+font-size: 36px;
+/* 上下のpaddingを20px、左右のpaddingを40pxにしてください */
+margin-left:20px;
+
+}
+.header li {
+  list-style: none;
+  float:left ;
+  /* 上下のpaddingを33px、左右のpaddingを20pxにしてください */
+  padding:33px 20px 70px 20px;
+  margin-left: 100px
+
+
+}
+.header li a { text-decoration: none;
+  color: white;
+
+}
+.header li a:hover { text-decoration: none;
+color:white;}
+.header a { text-decoration: none;
+  color: white;
+
+}
+.header a:hover { text-decoration: none;
+color:white;}
+.main h1{
+  padding-top:90px;
+  text-align:center;
+  font-size: 50px;
+}
+.main img{
+  width: 47vw;
+  life-style: none;
+  float: left;
+  height: 280px;
+
+}
+
+
+
+.footer{
+  color: white;
+  background-color:black;
+  opacity: 0.8;
+  height: 150px;
+  bottom:0px;
+  width:100%;
+  margin-top: 300px;
+
+}
+
+
+.footer h7{
+  display:inline-block;
+  font-size:36px;
+  margin-left:50px;
+  margin-top:20px;
+
+}
+.footer-logo{
+  float: right;
+  padding-top: 20px;
+  padding-right:15px;
+}
+.company{
+  padding-bottom:20px;
+
+}
+.site{
+  padding-bottom:20px;
