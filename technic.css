@@ -65,7 +65,14 @@ color:white;}
 .technic-list iframe{
   width:22vw;
 }
+.wrapper{
+  position:relative;
+}
+
 footer{
+  position:absolute;
+  bottom:0px;
+  width:100vw;
   color: white;
   background-color:black;
   opacity: 0.8;
