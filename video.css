@@ -75,13 +75,13 @@ color:white;}
  position:relative;
 }
 footer{
+  position:absolute;
+  bottom:0px;
+  width:100vw;
   color: white;
   background-color:black;
   opacity: 0.8;
   height: 150px;
-  positon:absolute;
-  bottom:0px;
-  width:100vw;
 
 }
 footer h7{
